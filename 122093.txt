@@ -1,0 +1,2 @@
+Namesto "master" grankata, koristena e grankata "main". 
+Bev na kraj od vezbava koga zabelezav deka github ja ima kreirano kako main namesto master.
