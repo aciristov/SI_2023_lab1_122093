@@ -1,2 +1,8 @@
 Namesto "master" grankata, koristena e grankata "main". 
 Bev na kraj od vezbava koga zabelezav deka github ja ima kreirano kako main namesto master.
+
+Za cekorite od 18, 20 i 25, odbegnuvanjeto na konflikti moze da se reshi na nacin so menuvanje
+ili izbiranje na merging grankite kon main. Vo ovoj moment za da ne nastanat konflikti
+gi odbegnav na nacin na koj posle sekoe reshavanje na bug, se sinhronizirav so main grankata.
+Pr. reshen bug1, pull request do main, main go prifakja, drugite granki kako bug2 i bug3 se 
+azurirani od main pred sekoe nivno menuvanje. Toa e najdobar nacin da se izbegnat konflikti.
