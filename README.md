@@ -1,1 +1,1 @@
-# SI_2023_lab1_122093
+Aleksandar Ristov 122093
